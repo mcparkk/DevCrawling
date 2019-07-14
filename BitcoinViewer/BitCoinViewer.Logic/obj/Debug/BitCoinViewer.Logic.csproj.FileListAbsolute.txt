@@ -1,0 +1,2 @@
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitCoinViewer.Logic\obj\Debug\BitCoinViewer.Logic.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitCoinViewer.Logic\obj\Debug\BitCoinViewer.Logic.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\bin\Debug\BitcoinViewer.LogicData.dll
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\bin\Debug\BitcoinViewer.LogicData.pdb
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.csproj.CopyComplete
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.dll
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinViewer", "BitcoinViewer\BitcoinViewer.csproj", "{93CE0C6D-980F-4089-934C-752038DC77AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitcoinViewer.LogicData", "BitcoinViewer.LogicData\BitcoinViewer.LogicData.csproj", "{23409E44-EC05-469C-813A-001613ED8717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CE0C6D-980F-4089-934C-752038DC77AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CE0C6D-980F-4089-934C-752038DC77AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CE0C6D-980F-4089-934C-752038DC77AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CE0C6D-980F-4089-934C-752038DC77AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23409E44-EC05-469C-813A-001613ED8717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23409E44-EC05-469C-813A-001613ED8717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23409E44-EC05-469C-813A-001613ED8717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23409E44-EC05-469C-813A-001613ED8717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE2CD4C9-49DD-4B5B-BC6D-BB93D6741141}
+	EndGlobalSection
+EndGlobal
