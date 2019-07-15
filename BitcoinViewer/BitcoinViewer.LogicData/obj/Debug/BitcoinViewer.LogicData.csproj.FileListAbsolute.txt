@@ -7,3 +7,6 @@ C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\D
 C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.csproj.CopyComplete
 C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.dll
 C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.pdb
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kccistc\Desktop\DevCrawling\BitcoinViewer\BitcoinViewer.LogicData\obj\Debug\BitcoinViewer.LogicData.csprojAssemblyReference.cache

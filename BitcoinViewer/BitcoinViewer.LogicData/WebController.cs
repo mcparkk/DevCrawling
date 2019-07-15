@@ -30,6 +30,7 @@ namespace BitcoinViewer
         
 
         public WebCrawler WebCrawler { get; }
+        public 
 
 
 
